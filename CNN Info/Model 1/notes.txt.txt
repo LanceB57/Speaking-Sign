@@ -1,0 +1,4 @@
+Completed on 21 Dec 2020
+1. Very cool! First time successfully training my own MATLAB NN, so I'm very excited.
+2. Some values in Excel show up as NaN; searched it up, and turns out that my learning rate should be 0.001 instead of 0.01.
+3. Final validation accuracy is ~90%, which is really nice, but I'd like to experiment more and see if I can get it up to maybe 95%. Honestly don't know what to change in order to be more accurate, but should be a fun experience!
