@@ -1,0 +1,4 @@
+Completed on 21 Dec 2020
+1. Same layers and such as Model 1, just changed the learning rate to 0.001. Validation Loss still shows NaN.
+2. Because of this and the fact that this model has ~89% validation accuracy, I think it's best to stick with Model 1. Thinking about it now, 90% will suffice.
+3. Will now focus on plotting progress using Python.
